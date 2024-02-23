@@ -1,0 +1,5 @@
+../User/Src/kernel_rxtx.c:35:6:usb_callback	48	static
+../User/Src/kernel_rxtx.c:224:6:calc_voltage_raw	16	static
+../User/Src/kernel_rxtx.c:242:6:HAL_ADC_ConvCpltCallback	16	static
+../User/Src/kernel_rxtx.c:258:6:kernel_init	8	static
+../User/Src/kernel_rxtx.c:306:6:kernel_main	8	static
